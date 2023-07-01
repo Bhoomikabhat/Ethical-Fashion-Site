@@ -1,5 +1,11 @@
 # Ethical-Fashion-Site
 # project
+For figma model ,
+1.On clicking the link ,you will get a login page.
+2.You can either click on Submit (it will redirect to Main page) or signup (it will redirect to the signup page) botton.
+3.If you click on  Submit in Sign up page (it will redirect to Main page). 
+4.When you are on main page click on logo ( left top of the main page).
+
 Installation process:
 
 1.In your web browser , open phpmyadmin ->phpmyadmin.net
@@ -26,5 +32,4 @@ Make sure every steps are followed properly .
 It asks for required details and once it is done, It leads you to our website. 
 To view only the website , "localhost/form/index.html".
 
-For figma model ,
-On clicking the submit button, website is viewed .
+
