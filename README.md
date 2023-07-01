@@ -1,6 +1,7 @@
 # Ethical-Fashion-Site
 # project
 For figma model ,
+
 1.On clicking the link ,you will get a login page.
 
 2.You can either click on Submit (it will redirect to Main page) or signup (it will redirect to the signup page) botton.
