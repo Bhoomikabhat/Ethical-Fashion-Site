@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200&display=swap');
+
+
+body{
+    margin:0px;
+    padding:0px;
+   /* background-color: rgb(180, 200, 196);*/
+    background-size: cover;
+}
+.head{
+    /*border: 2px solid black;*/
+    background: url('../form/bg1.jpg');
+    background-size: 1500px 600px;
+}
+.left{
+    position: absolute;
+    display: inline-block;
+    left: 20px;
+    top: 13px;
+    display: inline-block;
+    /*border: 2px solid black;*/
+}
+.left img{
+    margin-top: 25px;
+    width: 80px;
+    padding: 4px;
+    background-color: rgb(80, 105, 97);
+}
+.logo{
+    font-size: small;
+    text-align: center;
+}
+.right{
+    display: inline-block;
+    position: absolute;
+    right: 50px;
+    top: 40px;
+    /*border: 2px solid black;*/
+}
+.right img{
+    width: 30px;
+    background-color: rgb(80, 105, 97);
+    padding: 3px;
+}
+.mid{
+    display: block;
+    width: 30%;
+    margin: 30px auto;
+    /*border: 1px solid black;*/
+    padding-top: 5px;
+    background-color: rgb(245 245 245 / 15%);
+}
+.navbar{
+    margin-top: 50px;
+    display: inline-block;
+}
+.navbar li{
+    top: 30px;
+    display: inline-block;
+}
+.navbar li a{
+    font-size: 20px;
+    color: black;
+    padding: 15px;
+    text-decoration: none;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.navbar li a:hover , .navbar li a.active{
+    color:rgba(88, 134, 114, 0.922);
+    padding: 15px;
+    text-decoration: none;
+}
+.tagline{
+    margin-top: 200px;
+    margin-bottom: 0px;
+    color: black;
+    padding: 10px;
+    font-size: 12mm;
+    text-align: center;
+    background-color:whitesmoke;
+    font-family: 'Dancing Script', cursive;
+}
+.brand img{
+    display: inline-block;
+    margin-top: 40px;
+    margin-left: 150px;
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+}
+.brand img:hover {
+    transition: 1s;
+    transform: scale(1.1);
+}
+.cmp{
+    width: 70%;
+    margin-top: 0px;
+    background-color: rgb(243, 234, 223);
+    /*border: 2px solid black;*/
+}
+.cmp h1{
+    padding: 5px;
+    background-color:#c7cbb4c9;
+    top: 10px;
+    font-family:'Dancing Script', cursive ;
+}
+.mainleft img{
+    width: 29%;
+    position: absolute;
+    right: 0px;
+    top: 415px;
+    height: 465px;
+    /*border: 2px solid black;*/
+}
+.maindown img{
+    width: 29%;
+    position: absolute;
+    right: 0px;
+    top: 1000px;
+    height: 450px;
+    /*border: 2px solid black;*/
+}
+.mainmid p{
+    width: 29%;
+    position: absolute;
+    right: 0px;
+    top: 871px;
+    height: 58px;
+   /* border: 2px solid black;*/
+    font-size: 33px;
+    font-family: 'Dancing Script', cursive;
+}
+.cimg img{
+    position:absolute;
+    left:0px;
+    border:1px solid black;
+    width:25%;
+    height:40%;
+    margin-top: 7px;
+}
+.content{
+    position:absolute;
+    left:400px;
+    /*border:1px solid black;*/
+    width:43%;
+    height:40%;
+    margin-top: 10px;
+    font-size: 23px;
+    background-color:#c7cbb457;
+    font-family: 'Dancing Script', cursive;
+}
+footer{
+    background-color: #889d8e59;
+    margin-top: 310px;
+    background-size: contain;
+}
+.footer-elem{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    top:0px;
+}
+.footer-elem ion-icon{
+    color:#060606;
+    font-size: 20px;
+    padding-left: 14px;
+    transition: 0.3s ease;
+}
+.footer-elem ion-icon:hover{
+    color:white;
+} 
+.copyright{
+    margin-top: 0px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.service{
+    margin-left: 600px;
+}
+.service li{
+    display: inline-block;
+    color:black;
+    margin-left: 30px;
+    font-size: 18px;
+    transition: 0.5s ease;
+}
+.service li:hover{
+    color:white;
+    transition: 0.5s ease;
+    cursor: pointer;
+}
