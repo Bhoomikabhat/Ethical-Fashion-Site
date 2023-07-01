@@ -9,10 +9,9 @@
 body{
     background-image: url('Certified-1200x800.jpg');
   background-size: cover;
-  background-repeat: round;
+  background-repeat: no-repeat;
   height: 100%;
   width: 100%;
-  padding: 5% 0% 5% 0%
 }
 .quote {
     color: white;
