@@ -9,7 +9,7 @@ body{
 }
 .head{
     /*border: 2px solid black;*/
-    background: url('../form/bg1.jpg');
+    background: url('./bg1.jpg');
     background-size: 1500px 600px;
 }
 .left{
