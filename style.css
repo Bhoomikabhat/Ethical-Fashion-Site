@@ -1,12 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200&display=swap');
-.body{
-    background-image: url('Certified-1200x800.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 100%;
-    width: 100%;
-    padding:0
-}
+
 body{
   background-image: url('Certified-1200x800.jpg');
   background-size: cover;
