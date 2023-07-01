@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200&display=swap');
 
 body{
-    margin: 0px;
-    padding: 0px;
-    background:url('Certified-1200x800.jpg');
-    font-family: 'Dancing Script', cursive;
-    background-size: cover;
+    background-image: url('/bCertified-1200x800.jpg');
+  background-size: cover;
+  background-repeat: round;
+  height: 100%;
+  width: 100%;
+  padding: 5% 0% 5% 0%
 }
 .quote{
     color: white;
