@@ -2,8 +2,11 @@
 # project
 For figma model ,
 1.On clicking the link ,you will get a login page.
+
 2.You can either click on Submit (it will redirect to Main page) or signup (it will redirect to the signup page) botton.
+
 3.If you click on  Submit in Sign up page (it will redirect to Main page). 
+
 4.When you are on main page click on logo ( left top of the main page).
 
 Installation process:
