@@ -14,9 +14,15 @@ Installation process:
 
 1.In your web browser , open phpmyadmin ->phpmyadmin.net
 Select SUPPORT in option , then select DOCUMENTATION -> Installing for windows( Based on your system) -> Select XAMPP and press the link.Then download it.
+
 2.Inside the local disk , find out XAMPP folder .Then go to HTDOCS and create a folder "form".
 
 3.Paste all the files and images in the form folder.Make sure everything is pasted as shown below.
+
+ Note:In the live website , the login page redirects you to the main page .Enter the login credentials 
+Username - admin
+Password - password
+Make sure it is entered properly .Hence access our website!
 
 ![Screenshot (10)](https://github.com/Bhargavinm234/project/assets/115770616/0101c3b2-c606-4031-93b1-67be183f4206)
 
